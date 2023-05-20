@@ -17,13 +17,13 @@ function Header() {
               edge="start"
               color="inherit"
               aria-label="menu"
-              sx={{ mr: 2 }}
+              sx={{ mr: 1 }}
             >
               {/*  
               <MenuIcon />
               */}
             </IconButton>
-            <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
+            <Typography variant="h5" component="div" sx={{ flexGrow: 1 }}>
               Gerenciamento de Projetos
             </Typography>
           </Toolbar>
